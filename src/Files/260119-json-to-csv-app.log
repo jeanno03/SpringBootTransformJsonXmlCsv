@@ -1,0 +1,1879 @@
+janv. 26, 2019 7:21:39 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:21:39 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:21:39 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:21:39 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:21:39 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:21:39 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:21:39 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:21:39 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:21:39 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:21:39 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:21:39 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:21:39 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:21:39 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 7:24:58 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:24:58 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:24:58 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:24:58 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:24:58 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:24:58 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:24:58 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:24:58 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:24:58 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:24:58 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:24:58 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:24:58 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:24:58 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 7:34:07 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:34:07 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:34:07 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:34:07 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:34:07 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:34:07 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:34:07 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getTestIcaElement
+INFOS: Key = Meta
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getTestIcaElement
+INFOS: Value = {}
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getTestIcaElement
+INFOS: Key = Error
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getTestIcaElement
+INFOS: Value = {}
+janv. 26, 2019 7:34:07 PM com.myservices.MyService getTestIcaElement
+INFOS: Key = Data
+janv. 26, 2019 7:39:43 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:39:43 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:39:43 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:39:43 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:39:43 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:39:43 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:39:43 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "result" (class com.entities.Result), not marked as ignorable (60 known properties: "u_impacted_customers", "u_internal_watch_list", "closed_by", "assigned_to", "sys_updated_by", "u_opening_group", "state", "u_mtx_service_label", "u_root_cause_description", "u_mtx_financial_impact", "sys_updated_on", "u_end_date", "cmdb_ci", "u_mtx_outage_downtime", "u_security_incident", "parent", "u_steering_commitee_count", "u_action_plan_summary", "u_origin", "u_completed_at", "short_description", "u_mtx_brand_image_impact", "u_service_linked_count", "u_business_service", "u_internal_group_watch_list", "sys_created_on", "number", "u_origin_detailled", "u_incident_avere_child_count", "u_problem", "u_impacted_business_ia_rpt", "u_mtx_user_impacted_perimeter", "u_external_reference", "closed_at", "u_mtx_service_pca", "opened_by", "u_operational_risk_reference", "u_start_date", "u_organisational_units_rpt", "u_outage", "description", "u_outage_type", "active", "assignment_group", "u_quality_engineers_rpt", "work_notes", "u_original_change", "u_calculated_impact", "u_source" [truncated]])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 3, column: 20] (through reference chain: java.util.HashMap["Data"]->com.entities.Result["result"])
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getTestIcaElement
+INFOS: Key = Meta
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getTestIcaElement
+INFOS: Value = {}
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getTestIcaElement
+INFOS: Key = Error
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getTestIcaElement
+INFOS: Value = {}
+janv. 26, 2019 7:39:43 PM com.myservices.MyService getTestIcaElement
+INFOS: Key = Data
+janv. 26, 2019 7:40:59 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:40:59 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:40:59 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:40:59 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:40:59 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:40:59 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:40:59 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: Error : com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.lang.String` out of START_OBJECT token
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 13] (through reference chain: java.util.HashMap["Data"])
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "result" (class com.entities.Result), not marked as ignorable (60 known properties: "u_impacted_customers", "u_internal_watch_list", "closed_by", "assigned_to", "sys_updated_by", "u_opening_group", "state", "u_mtx_service_label", "u_root_cause_description", "u_mtx_financial_impact", "sys_updated_on", "u_end_date", "cmdb_ci", "u_mtx_outage_downtime", "u_security_incident", "parent", "u_steering_commitee_count", "u_action_plan_summary", "u_origin", "u_completed_at", "short_description", "u_mtx_brand_image_impact", "u_service_linked_count", "u_business_service", "u_internal_group_watch_list", "sys_created_on", "number", "u_origin_detailled", "u_incident_avere_child_count", "u_problem", "u_impacted_business_ia_rpt", "u_mtx_user_impacted_perimeter", "u_external_reference", "closed_at", "u_mtx_service_pca", "opened_by", "u_operational_risk_reference", "u_start_date", "u_organisational_units_rpt", "u_outage", "description", "u_outage_type", "active", "assignment_group", "u_quality_engineers_rpt", "work_notes", "u_original_change", "u_calculated_impact", "u_source" [truncated]])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 3, column: 20] (through reference chain: java.util.HashMap["Data"]->com.entities.Result["result"])
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getTestIcaElement
+INFOS: Key = Meta
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getTestIcaElement
+INFOS: Value = {}
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getTestIcaElement
+INFOS: Key = Error
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getTestIcaElement
+INFOS: Value = {}
+janv. 26, 2019 7:40:59 PM com.myservices.MyService getTestIcaElement
+INFOS: Key = Data
+janv. 26, 2019 7:44:48 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:44:48 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:44:48 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:44:48 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:44:48 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:44:48 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:44:48 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:44:48 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:44:48 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:44:48 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:44:48 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:44:48 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:44:48 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "result" (class com.entities.Result), not marked as ignorable (60 known properties: "u_impacted_customers", "u_internal_watch_list", "closed_by", "assigned_to", "sys_updated_by", "u_opening_group", "state", "u_mtx_service_label", "u_root_cause_description", "u_mtx_financial_impact", "sys_updated_on", "u_end_date", "cmdb_ci", "u_mtx_outage_downtime", "u_security_incident", "parent", "u_steering_commitee_count", "u_action_plan_summary", "u_origin", "u_completed_at", "short_description", "u_mtx_brand_image_impact", "u_service_linked_count", "u_business_service", "u_internal_group_watch_list", "sys_created_on", "number", "u_origin_detailled", "u_incident_avere_child_count", "u_problem", "u_impacted_business_ia_rpt", "u_mtx_user_impacted_perimeter", "u_external_reference", "closed_at", "u_mtx_service_pca", "opened_by", "u_operational_risk_reference", "u_start_date", "u_organisational_units_rpt", "u_outage", "description", "u_outage_type", "active", "assignment_group", "u_quality_engineers_rpt", "work_notes", "u_original_change", "u_calculated_impact", "u_source" [truncated]])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 3, column: 20] (through reference chain: java.util.HashMap["Data"]->com.entities.Result["result"])
+janv. 26, 2019 7:44:48 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 7:47:59 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:47:59 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:47:59 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:47:59 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:47:59 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:47:59 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:47:59 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:47:59 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:47:59 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:47:59 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:47:59 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:47:59 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:47:59 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList` out of START_OBJECT token
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 1, column: 1]
+janv. 26, 2019 7:47:59 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 7:50:02 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:50:02 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:50:02 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:50:02 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:50:02 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:50:02 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:50:02 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:50:02 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:50:02 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:50:02 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:50:02 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:50:02 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:50:02 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "Data" (class com.entities.Result), not marked as ignorable (60 known properties: "u_impacted_customers", "u_internal_watch_list", "closed_by", "assigned_to", "sys_updated_by", "u_opening_group", "state", "u_mtx_service_label", "u_root_cause_description", "u_mtx_financial_impact", "sys_updated_on", "u_end_date", "cmdb_ci", "u_mtx_outage_downtime", "u_security_incident", "parent", "u_steering_commitee_count", "u_action_plan_summary", "u_origin", "u_completed_at", "short_description", "u_mtx_brand_image_impact", "u_service_linked_count", "u_business_service", "u_internal_group_watch_list", "sys_created_on", "number", "u_origin_detailled", "u_incident_avere_child_count", "u_problem", "u_impacted_business_ia_rpt", "u_mtx_user_impacted_perimeter", "u_external_reference", "closed_at", "u_mtx_service_pca", "opened_by", "u_operational_risk_reference", "u_start_date", "u_organisational_units_rpt", "u_outage", "description", "u_outage_type", "active", "assignment_group", "u_quality_engineers_rpt", "work_notes", "u_original_change", "u_calculated_impact", "u_source" [truncated]])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 14] (through reference chain: java.lang.Object[0]->com.entities.Result["Data"])
+janv. 26, 2019 7:50:02 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 7:52:38 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:52:38 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:52:38 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:52:38 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:52:38 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:52:38 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:52:38 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:52:38 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:52:38 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:52:38 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:52:38 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:52:38 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:52:38 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "result" (class com.entities.Result), not marked as ignorable (60 known properties: "u_impacted_customers", "u_internal_watch_list", "closed_by", "assigned_to", "sys_updated_by", "u_opening_group", "state", "u_mtx_service_label", "u_root_cause_description", "u_mtx_financial_impact", "sys_updated_on", "u_end_date", "cmdb_ci", "u_mtx_outage_downtime", "u_security_incident", "parent", "u_steering_commitee_count", "u_action_plan_summary", "u_origin", "u_completed_at", "short_description", "u_mtx_brand_image_impact", "u_service_linked_count", "u_business_service", "u_internal_group_watch_list", "sys_created_on", "number", "u_origin_detailled", "u_incident_avere_child_count", "u_problem", "u_impacted_business_ia_rpt", "u_mtx_user_impacted_perimeter", "u_external_reference", "closed_at", "u_mtx_service_pca", "opened_by", "u_operational_risk_reference", "u_start_date", "u_organisational_units_rpt", "u_outage", "description", "u_outage_type", "active", "assignment_group", "u_quality_engineers_rpt", "work_notes", "u_original_change", "u_calculated_impact", "u_source" [truncated]])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 3, column: 20] (through reference chain: java.util.HashMap["Data"]->com.entities.Result["result"])
+janv. 26, 2019 7:52:38 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 7:53:29 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:53:29 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:53:29 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:53:29 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:53:29 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:53:29 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:53:29 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:53:29 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:53:29 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:53:29 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:53:29 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:53:29 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:53:29 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "Data" (class com.entities.Result), not marked as ignorable (60 known properties: "u_impacted_customers", "u_internal_watch_list", "closed_by", "assigned_to", "sys_updated_by", "u_opening_group", "state", "u_mtx_service_label", "u_root_cause_description", "u_mtx_financial_impact", "sys_updated_on", "u_end_date", "cmdb_ci", "u_mtx_outage_downtime", "u_security_incident", "parent", "u_steering_commitee_count", "u_action_plan_summary", "u_origin", "u_completed_at", "short_description", "u_mtx_brand_image_impact", "u_service_linked_count", "u_business_service", "u_internal_group_watch_list", "sys_created_on", "number", "u_origin_detailled", "u_incident_avere_child_count", "u_problem", "u_impacted_business_ia_rpt", "u_mtx_user_impacted_perimeter", "u_external_reference", "closed_at", "u_mtx_service_pca", "opened_by", "u_operational_risk_reference", "u_start_date", "u_organisational_units_rpt", "u_outage", "description", "u_outage_type", "active", "assignment_group", "u_quality_engineers_rpt", "work_notes", "u_original_change", "u_calculated_impact", "u_source" [truncated]])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 14] (through reference chain: java.lang.Object[0]->com.entities.Result["Data"])
+janv. 26, 2019 7:53:29 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 7:56:56 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:56:56 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:56:56 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:56:56 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:56:56 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:56:56 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:56:56 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:56:56 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:56:56 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:56:56 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:56:56 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:56:56 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:56:56 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "Data" (class com.entities.Data), not marked as ignorable (one known property: "results"])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 14] (through reference chain: com.entities.Data["Data"])
+janv. 26, 2019 7:56:56 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 7:57:41 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:57:41 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:57:41 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:57:41 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:57:41 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:57:41 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:57:41 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:57:41 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:57:41 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:57:41 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:57:41 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:57:41 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:57:41 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "Data" (class com.entities.Data), not marked as ignorable (0 known properties: ])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 14] (through reference chain: com.entities.Data["Data"])
+janv. 26, 2019 7:57:41 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 7:59:34 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 7:59:34 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 7:59:34 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 7:59:34 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 7:59:34 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 7:59:34 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 7:59:34 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 7:59:34 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:59:34 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 7:59:34 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 7:59:34 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 7:59:34 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 7:59:34 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "result" (class com.entities.Result), not marked as ignorable (60 known properties: "u_impacted_customers", "u_internal_watch_list", "closed_by", "assigned_to", "sys_updated_by", "u_opening_group", "state", "u_mtx_service_label", "u_root_cause_description", "u_mtx_financial_impact", "sys_updated_on", "u_end_date", "cmdb_ci", "u_mtx_outage_downtime", "u_security_incident", "parent", "u_steering_commitee_count", "u_action_plan_summary", "u_origin", "u_completed_at", "short_description", "u_mtx_brand_image_impact", "u_service_linked_count", "u_business_service", "u_internal_group_watch_list", "sys_created_on", "number", "u_origin_detailled", "u_incident_avere_child_count", "u_problem", "u_impacted_business_ia_rpt", "u_mtx_user_impacted_perimeter", "u_external_reference", "closed_at", "u_mtx_service_pca", "opened_by", "u_operational_risk_reference", "u_start_date", "u_organisational_units_rpt", "u_outage", "description", "u_outage_type", "active", "assignment_group", "u_quality_engineers_rpt", "work_notes", "u_original_change", "u_calculated_impact", "u_source" [truncated]])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 3, column: 20] (through reference chain: java.util.HashMap["Data"]->com.entities.Result["result"])
+janv. 26, 2019 7:59:34 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:00:11 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:00:11 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:00:11 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:00:11 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:00:11 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:00:11 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:00:11 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:00:11 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:00:11 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:00:11 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:00:11 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:00:11 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:00:11 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.lang.String` out of START_OBJECT token
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 13] (through reference chain: java.util.HashMap["Data"])
+janv. 26, 2019 8:00:11 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:06:53 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:06:53 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:06:53 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:06:53 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:06:53 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: Key = Meta
+janv. 26, 2019 8:06:53 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: Value = {}
+janv. 26, 2019 8:06:53 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: Key = Error
+janv. 26, 2019 8:06:53 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: Value = {}
+janv. 26, 2019 8:06:53 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: Key = Data
+janv. 26, 2019 8:15:10 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:15:10 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:15:10 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:15:10 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:15:11 PM com.myservices.MyService getTestIcaElement2
+INFOS: Error : java.lang.NullPointerException
+janv. 26, 2019 8:15:11 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:16:08 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:16:08 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:16:08 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:16:08 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:16:08 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:16:59 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:16:59 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:16:59 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:16:59 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:16:59 PM com.myservices.MyService getTestIcaElement2
+INFOS: Error : java.lang.NullPointerException
+janv. 26, 2019 8:16:59 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:17:19 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:17:19 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:17:19 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:17:19 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:17:19 PM com.myservices.MyService getTestIcaElement2
+INFOS: Error : java.lang.NullPointerException
+janv. 26, 2019 8:17:19 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:17:49 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:17:49 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:17:49 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:17:49 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:17:49 PM com.myservices.MyService getTestIcaElement2
+INFOS: 
+janv. 26, 2019 8:17:49 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:18:22 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:18:22 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:18:22 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:18:22 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:18:22 PM com.myservices.MyService getTestIcaElement2
+INFOS: null
+janv. 26, 2019 8:18:22 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:31:50 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:31:50 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:31:50 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:31:50 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:31:50 PM com.myservices.MyService getTestIcaElement2
+INFOS: null
+janv. 26, 2019 8:31:50 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:32:38 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:32:38 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:32:38 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:32:38 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:32:38 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:32:38 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:32:38 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:32:38 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:32:38 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:32:38 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {Meta={}, Error={}, Data={result=[{parent=, u_internal_group_watch_list=Natixis Confidential, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 11:09:35, u_origin=Application, number=Natixis Confidential, u_outage=O - Extr@ssur - Documentaire, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 11:06:11, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=Natixis Confidential, u_completed_at=, closed_at=, cmdb_ci=, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=A/R IHS et JVM, opened_at=21-01-2019 11:06:11, u_problem=, u_start_date=18-01-2019 16:12:18, u_outage_type=Outage, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=prd-assurance, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=IT Team (project, production,quality), closed_by=, sys_id=0c1009c7db476700867a5c8a68961997, u_impacted_business_ia=Natixis Confidential, u_end_date=18-01-2019 16:41:36, u_opening_group=Natixis Confidential, assigned_to=Natixis Confidential, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Natixis Confidential, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}, {parent=, u_internal_group_watch_list=text factice, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 10:14:02, u_origin=Application, number=Natixis Confidential, u_outage=Natixis Confidential, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 10:11:03, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=, u_completed_at=, closed_at=, cmdb_ci=Natixis Confidential, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=Natixis Confidential, opened_at=Natixis Confidential, u_problem=, u_start_date=21-01-2019 09:36:43, u_outage_type=Natixis Confidential, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=Natixis Confidential, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=Natixis Confidential, closed_by=, sys_id=Natixis Confidential, u_impacted_business_ia=Natixis Confidential, u_end_date=21-01-2019 09:47:14, u_opening_group=prd-qualite, assigned_to=VALETTE Loic, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Production, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}]}}
+janv. 26, 2019 8:32:38 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:32:38 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:32:38 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:32:38 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:35:01 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:35:01 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:35:01 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:35:01 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:35:01 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:35:01 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:35:01 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:35:01 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:35:01 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:35:01 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:35:01 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:35:01 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:35:01 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "Data" (class com.entities.Data), not marked as ignorable (0 known properties: ])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 14] (through reference chain: com.entities.Data["Data"])
+janv. 26, 2019 8:35:01 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:35:32 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:35:32 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:35:32 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:35:32 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:35:32 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:35:32 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:35:32 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:35:32 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:35:32 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:35:32 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:35:32 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:35:32 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:35:32 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "data" (class com.entities.Data), not marked as ignorable (0 known properties: ])
+ at [Source: (byte[])"{
+    "data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 14] (through reference chain: com.entities.Data["data"])
+janv. 26, 2019 8:35:32 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:36:56 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:36:56 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:36:56 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:36:56 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:36:56 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:36:56 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:36:56 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:36:56 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:36:56 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:36:56 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:36:56 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:36:56 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:36:56 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "Data" (class com.entities.Result), not marked as ignorable (60 known properties: "u_impacted_customers", "u_internal_watch_list", "closed_by", "assigned_to", "sys_updated_by", "u_opening_group", "state", "u_mtx_service_label", "u_root_cause_description", "u_mtx_financial_impact", "sys_updated_on", "u_end_date", "cmdb_ci", "u_mtx_outage_downtime", "u_security_incident", "parent", "u_steering_commitee_count", "u_action_plan_summary", "u_origin", "u_completed_at", "short_description", "u_mtx_brand_image_impact", "u_service_linked_count", "u_business_service", "u_internal_group_watch_list", "sys_created_on", "number", "u_origin_detailled", "u_incident_avere_child_count", "u_problem", "u_impacted_business_ia_rpt", "u_mtx_user_impacted_perimeter", "u_external_reference", "closed_at", "u_mtx_service_pca", "opened_by", "u_operational_risk_reference", "u_start_date", "u_organisational_units_rpt", "u_outage", "description", "u_outage_type", "active", "assignment_group", "u_quality_engineers_rpt", "work_notes", "u_original_change", "u_calculated_impact", "u_source" [truncated]])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 14] (through reference chain: java.lang.Object[0]->com.entities.Result["Data"])
+janv. 26, 2019 8:36:56 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:41:28 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:41:28 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:41:28 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:41:28 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:41:28 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:41:28 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:41:28 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:41:28 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:41:28 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:41:28 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:41:28 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:41:28 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:41:29 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "Data" (class com.entities.Parent), not marked as ignorable (3 known properties: "error", "data", "meta"])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 14] (through reference chain: com.entities.Parent["Data"])
+janv. 26, 2019 8:41:29 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:42:08 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:42:08 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:42:08 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:42:08 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:42:08 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:42:08 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:42:08 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:42:08 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:42:08 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:42:08 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:42:08 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:42:08 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:42:08 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "Data" (class com.entities.Parent), not marked as ignorable (0 known properties: ])
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 14] (through reference chain: com.entities.Parent["Data"])
+janv. 26, 2019 8:42:08 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:44:18 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:44:18 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:44:18 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:44:18 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:44:18 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:44:18 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:44:18 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:44:18 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:44:18 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:44:18 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:44:18 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:44:18 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:44:18 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : com.entities.Parent@615e3f51
+janv. 26, 2019 8:44:18 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:45:03 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:45:03 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:45:03 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:45:03 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:45:03 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:45:03 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:45:03 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:45:03 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:45:03 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:45:03 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:45:03 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:45:03 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:45:03 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : com.entities.Data@772861aa
+janv. 26, 2019 8:45:03 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:45:30 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:45:30 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:45:30 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:45:30 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:45:30 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:45:30 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:45:30 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:45:30 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:45:30 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:45:30 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:45:30 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:45:30 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:45:30 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Result [parent=null, u_internal_group_watch_list=null, u_mtx_financial_impact=null, u_internal_watch_list=null, sys_updated_on=null, u_origin=null, number=null, u_outage=null, u_business_service=null, u_security_incident=null, sys_updated_by=null, opened_by=null, sys_created_on=null, u_steering_commitee_count=null, u_mtx_user_impacted_perimeter=null, state=null, u_operational_risk_reference=null, sys_created_by=null, u_root_cause_description=null, u_completed_at=null, closed_at=null, cmdb_ci=null, impact=null, active=null, u_impacted_customers=null, u_mtx_outage_downtime=null, u_cancel_reason=null, u_comm_linked_count=null, u_resolution_action_summary=null, opened_at=null, u_problem=null, u_start_date=null, u_outage_type=null, u_mtx_brand_image_impact=null, work_notes=null, u_action_plan_summary=null, short_description=null, assignment_group=null, u_completed_by=null, description=null, u_calculated_impact=null, u_incident_avere_child_count=null, u_source=null, closed_by=null, sys_id=null, u_impacted_business_ia=null, u_end_date=null, u_opening_group=null, assigned_to=null, u_external_reference=null, u_quality_engineers_rpt=null, u_mtx_service_label=null, u_problem_linked_count=null, u_original_change=null, u_environment=null, u_organisational_units_rpt=null, u_origin_detailled=null, u_service_linked_count=null, u_mtx_service_pca=null, u_impacted_business_ia_rpt=null]]
+janv. 26, 2019 8:45:30 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:50:55 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:50:55 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:50:55 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:50:55 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:50:55 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:50:55 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:50:55 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:50:55 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:50:55 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:50:55 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:50:55 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:50:55 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:50:55 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Lcom.entities.Result;@1d75e7af
+janv. 26, 2019 8:50:55 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:53:22 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:53:22 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:53:22 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:53:22 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:53:22 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:53:22 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:53:22 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:53:22 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:53:22 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:53:22 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:53:22 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:53:22 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:53:22 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : com.entities.Data@42714a7
+janv. 26, 2019 8:53:22 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 8:55:49 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:55:49 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:55:49 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:55:49 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:55:49 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:55:49 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:55:49 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:55:49 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:55:49 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:55:49 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:55:49 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:55:49 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 8:58:47 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 8:58:47 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 8:58:47 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 8:58:47 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 8:58:47 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 8:58:47 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 8:58:47 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 8:58:47 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:58:47 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 8:58:47 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 8:58:47 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 8:58:47 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:40:44 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:40:44 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:40:44 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:40:44 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:40:44 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:40:44 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:40:44 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:40:44 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:40:44 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:40:44 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 9:40:44 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:40:44 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:40:44 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.lang.String` out of START_OBJECT token
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 2, column: 13] (through reference chain: java.util.HashMap["Data"])
+janv. 26, 2019 9:40:44 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 9:41:29 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:41:29 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:41:29 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:41:29 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:41:29 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:41:29 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:41:29 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:41:29 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:41:29 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:41:29 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 9:41:29 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:41:29 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:41:29 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.entities.Result` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('{}')
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 130, column: 13] (through reference chain: java.util.HashMap["Meta"])
+janv. 26, 2019 9:41:29 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 9:42:22 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:42:22 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:42:22 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:42:22 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:42:22 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:42:22 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:42:22 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:42:22 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:42:22 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:42:22 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 9:42:22 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:42:22 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:42:22 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.entities.Result` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('{}')
+ at [Source: (byte[])"{
+    "Data": {
+        "result": [
+            {
+                "parent": "",
+                "u_internal_group_watch_list": "Natixis Confidential",
+                "u_mtx_financial_impact": null,
+                "u_internal_watch_list": "Natixis Confidential",
+                "sys_updated_on": "21-01-2019 11:09:35",
+                "u_origin": "Application",
+                "number": "Natixis Confidential",
+                "u_outage": "O - Extr@ssur - Documentaire",
+              "[truncated 5916 bytes]; line: 130, column: 13] (through reference chain: java.util.HashMap["Meta"])
+janv. 26, 2019 9:42:22 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 9:43:31 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:43:31 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:43:31 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:43:31 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:43:31 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:43:31 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:43:31 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:43:31 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:43:31 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:43:31 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 9:43:31 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:43:31 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:43:31 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Lcom.entities.Result;@7efe7b87
+janv. 26, 2019 9:43:31 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 9:43:57 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:43:57 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:43:57 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:43:57 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:43:57 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:43:57 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:43:57 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:43:57 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:43:57 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:43:57 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 9:43:57 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:43:57 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:44:19 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:44:19 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:44:19 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:44:19 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:44:19 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:44:19 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:44:19 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:44:19 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:44:19 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:44:19 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 9:44:19 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:44:19 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:44:19 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Result [parent=null, u_internal_group_watch_list=null, u_mtx_financial_impact=null, u_internal_watch_list=null, sys_updated_on=null, u_origin=null, number=null, u_outage=null, u_business_service=null, u_security_incident=null, sys_updated_by=null, opened_by=null, sys_created_on=null, u_steering_commitee_count=null, u_mtx_user_impacted_perimeter=null, state=null, u_operational_risk_reference=null, sys_created_by=null, u_root_cause_description=null, u_completed_at=null, closed_at=null, cmdb_ci=null, impact=null, active=null, u_impacted_customers=null, u_mtx_outage_downtime=null, u_cancel_reason=null, u_comm_linked_count=null, u_resolution_action_summary=null, opened_at=null, u_problem=null, u_start_date=null, u_outage_type=null, u_mtx_brand_image_impact=null, work_notes=null, u_action_plan_summary=null, short_description=null, assignment_group=null, u_completed_by=null, description=null, u_calculated_impact=null, u_incident_avere_child_count=null, u_source=null, closed_by=null, sys_id=null, u_impacted_business_ia=null, u_end_date=null, u_opening_group=null, assigned_to=null, u_external_reference=null, u_quality_engineers_rpt=null, u_mtx_service_label=null, u_problem_linked_count=null, u_original_change=null, u_environment=null, u_organisational_units_rpt=null, u_origin_detailled=null, u_service_linked_count=null, u_mtx_service_pca=null, u_impacted_business_ia_rpt=null]]
+janv. 26, 2019 9:44:19 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 9:45:59 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:45:59 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:45:59 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:45:59 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:45:59 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:45:59 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:45:59 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:45:59 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:45:59 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:45:59 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 9:45:59 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:45:59 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:45:59 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : com.entities.Parent@2b9f74d0
+janv. 26, 2019 9:45:59 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 9:48:31 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:48:31 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:48:31 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:48:31 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:48:31 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:48:31 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:48:31 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:48:31 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:48:31 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:48:31 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 9:48:31 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:48:31 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:48:31 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : com.entities.Parent@615e3f51
+janv. 26, 2019 9:48:31 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: Error : java.lang.NullPointerException
+janv. 26, 2019 9:48:31 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 9:53:14 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:53:14 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:53:14 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:53:14 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:53:14 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:53:14 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:53:14 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:53:14 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:53:14 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:53:14 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:53:14 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:53:14 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Result [parent=null, u_internal_group_watch_list=null, u_mtx_financial_impact=null, u_internal_watch_list=null, sys_updated_on=null, u_origin=null, number=null, u_outage=null, u_business_service=null, u_security_incident=null, sys_updated_by=null, opened_by=null, sys_created_on=null, u_steering_commitee_count=null, u_mtx_user_impacted_perimeter=null, state=null, u_operational_risk_reference=null, sys_created_by=null, u_root_cause_description=null, u_completed_at=null, closed_at=null, cmdb_ci=null, impact=null, active=null, u_impacted_customers=null, u_mtx_outage_downtime=null, u_cancel_reason=null, u_comm_linked_count=null, u_resolution_action_summary=null, opened_at=null, u_problem=null, u_start_date=null, u_outage_type=null, u_mtx_brand_image_impact=null, work_notes=null, u_action_plan_summary=null, short_description=null, assignment_group=null, u_completed_by=null, description=null, u_calculated_impact=null, u_incident_avere_child_count=null, u_source=null, closed_by=null, sys_id=null, u_impacted_business_ia=null, u_end_date=null, u_opening_group=null, assigned_to=null, u_external_reference=null, u_quality_engineers_rpt=null, u_mtx_service_label=null, u_problem_linked_count=null, u_original_change=null, u_environment=null, u_organisational_units_rpt=null, u_origin_detailled=null, u_service_linked_count=null, u_mtx_service_pca=null, u_impacted_business_ia_rpt=null]]
+janv. 26, 2019 9:53:14 PM com.myservices.MyService getTestIcaElement
+INFOS: id = 0
+janv. 26, 2019 9:53:14 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 9:55:19 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:55:19 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:55:19 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:55:19 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:55:19 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:55:19 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:55:19 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:55:19 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:55:19 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:55:20 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:55:20 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:55:20 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Result [parent=null, u_internal_group_watch_list=null, u_mtx_financial_impact=null, u_internal_watch_list=null, sys_updated_on=null, u_origin=null, number=null, u_outage=null, u_business_service=null, u_security_incident=null, sys_updated_by=null, opened_by=null, sys_created_on=null, u_steering_commitee_count=null, u_mtx_user_impacted_perimeter=null, state=null, u_operational_risk_reference=null, sys_created_by=null, u_root_cause_description=null, u_completed_at=null, closed_at=null, cmdb_ci=null, impact=null, active=null, u_impacted_customers=null, u_mtx_outage_downtime=null, u_cancel_reason=null, u_comm_linked_count=null, u_resolution_action_summary=null, opened_at=null, u_problem=null, u_start_date=null, u_outage_type=null, u_mtx_brand_image_impact=null, work_notes=null, u_action_plan_summary=null, short_description=null, assignment_group=null, u_completed_by=null, description=null, u_calculated_impact=null, u_incident_avere_child_count=null, u_source=null, closed_by=null, sys_id=null, u_impacted_business_ia=null, u_end_date=null, u_opening_group=null, assigned_to=null, u_external_reference=null, u_quality_engineers_rpt=null, u_mtx_service_label=null, u_problem_linked_count=null, u_original_change=null, u_environment=null, u_organisational_units_rpt=null, u_origin_detailled=null, u_service_linked_count=null, u_mtx_service_pca=null, u_impacted_business_ia_rpt=null]]
+janv. 26, 2019 9:55:20 PM com.myservices.MyService getTestIcaElement
+INFOS: *************  Methode : getTestIcaElement************* 
+janv. 26, 2019 9:55:20 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 9:57:46 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 9:57:46 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 9:57:46 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 9:57:46 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 9:57:46 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 9:57:46 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 9:57:46 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 9:57:46 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:57:46 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 9:57:46 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 9:57:46 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 9:57:46 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Result [parent=null, u_internal_group_watch_list=null, u_mtx_financial_impact=null, u_internal_watch_list=null, sys_updated_on=null, u_origin=null, number=null, u_outage=null, u_business_service=null, u_security_incident=null, sys_updated_by=null, opened_by=null, sys_created_on=null, u_steering_commitee_count=null, u_mtx_user_impacted_perimeter=null, state=null, u_operational_risk_reference=null, sys_created_by=null, u_root_cause_description=null, u_completed_at=null, closed_at=null, cmdb_ci=null, impact=null, active=null, u_impacted_customers=null, u_mtx_outage_downtime=null, u_cancel_reason=null, u_comm_linked_count=null, u_resolution_action_summary=null, opened_at=null, u_problem=null, u_start_date=null, u_outage_type=null, u_mtx_brand_image_impact=null, work_notes=null, u_action_plan_summary=null, short_description=null, assignment_group=null, u_completed_by=null, description=null, u_calculated_impact=null, u_incident_avere_child_count=null, u_source=null, closed_by=null, sys_id=null, u_impacted_business_ia=null, u_end_date=null, u_opening_group=null, assigned_to=null, u_external_reference=null, u_quality_engineers_rpt=null, u_mtx_service_label=null, u_problem_linked_count=null, u_original_change=null, u_environment=null, u_organisational_units_rpt=null, u_origin_detailled=null, u_service_linked_count=null, u_mtx_service_pca=null, u_impacted_business_ia_rpt=null]]
+janv. 26, 2019 9:57:46 PM com.myservices.MyService getTestIcaElement
+INFOS: *************  Methode : getTestIcaElement************* 
+janv. 26, 2019 9:57:46 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 10:04:40 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 10:04:40 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 10:04:40 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 10:04:40 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 10:04:40 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 10:04:40 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 10:04:40 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 10:04:40 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 10:04:40 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 10:04:40 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 10:04:40 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 10:04:40 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 10:04:40 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Result [parent=null, u_internal_group_watch_list=null, u_mtx_financial_impact=null, u_internal_watch_list=null, sys_updated_on=null, u_origin=null, number=null, u_outage=null, u_business_service=null, u_security_incident=null, sys_updated_by=null, opened_by=null, sys_created_on=null, u_steering_commitee_count=null, u_mtx_user_impacted_perimeter=null, state=null, u_operational_risk_reference=null, sys_created_by=null, u_root_cause_description=null, u_completed_at=null, closed_at=null, cmdb_ci=null, impact=null, active=null, u_impacted_customers=null, u_mtx_outage_downtime=null, u_cancel_reason=null, u_comm_linked_count=null, u_resolution_action_summary=null, opened_at=null, u_problem=null, u_start_date=null, u_outage_type=null, u_mtx_brand_image_impact=null, work_notes=null, u_action_plan_summary=null, short_description=null, assignment_group=null, u_completed_by=null, description=null, u_calculated_impact=null, u_incident_avere_child_count=null, u_source=null, closed_by=null, sys_id=null, u_impacted_business_ia=null, u_end_date=null, u_opening_group=null, assigned_to=null, u_external_reference=null, u_quality_engineers_rpt=null, u_mtx_service_label=null, u_problem_linked_count=null, u_original_change=null, u_environment=null, u_organisational_units_rpt=null, u_origin_detailled=null, u_service_linked_count=null, u_mtx_service_pca=null, u_impacted_business_ia_rpt=null]]
+janv. 26, 2019 10:04:40 PM com.myservices.MyService getTestIcaElement
+INFOS: *************  Methode : getTestIcaElement************* 
+janv. 26, 2019 10:04:40 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 10:12:06 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 10:12:06 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 10:12:06 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 10:12:06 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 10:12:06 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 10:12:06 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 10:12:06 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 10:12:06 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 10:12:06 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 10:12:06 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 10:12:06 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 10:12:06 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 10:12:06 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Result [parent=null, u_internal_group_watch_list=null, u_mtx_financial_impact=null, u_internal_watch_list=null, sys_updated_on=null, u_origin=null, number=null, u_outage=null, u_business_service=null, u_security_incident=null, sys_updated_by=null, opened_by=null, sys_created_on=null, u_steering_commitee_count=null, u_mtx_user_impacted_perimeter=null, state=null, u_operational_risk_reference=null, sys_created_by=null, u_root_cause_description=null, u_completed_at=null, closed_at=null, cmdb_ci=null, impact=null, active=null, u_impacted_customers=null, u_mtx_outage_downtime=null, u_cancel_reason=null, u_comm_linked_count=null, u_resolution_action_summary=null, opened_at=null, u_problem=null, u_start_date=null, u_outage_type=null, u_mtx_brand_image_impact=null, work_notes=null, u_action_plan_summary=null, short_description=null, assignment_group=null, u_completed_by=null, description=null, u_calculated_impact=null, u_incident_avere_child_count=null, u_source=null, closed_by=null, sys_id=null, u_impacted_business_ia=null, u_end_date=null, u_opening_group=null, assigned_to=null, u_external_reference=null, u_quality_engineers_rpt=null, u_mtx_service_label=null, u_problem_linked_count=null, u_original_change=null, u_environment=null, u_organisational_units_rpt=null, u_origin_detailled=null, u_service_linked_count=null, u_mtx_service_pca=null, u_impacted_business_ia_rpt=null]]
+janv. 26, 2019 10:12:06 PM com.myservices.MyService getTestIcaElement
+INFOS: *************  Methode : getTestIcaElement************* 
+janv. 26, 2019 10:12:06 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 10:13:40 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 10:13:40 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 10:13:40 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 10:13:40 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 10:13:40 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 10:13:40 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 10:13:40 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 10:13:40 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 10:13:40 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 10:13:40 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 10:13:40 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 10:13:40 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 10:13:40 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Result [parent=null, u_internal_group_watch_list=null, u_mtx_financial_impact=null, u_internal_watch_list=null, sys_updated_on=null, u_origin=null, number=null, u_outage=null, u_business_service=null, u_security_incident=null, sys_updated_by=null, opened_by=null, sys_created_on=null, u_steering_commitee_count=null, u_mtx_user_impacted_perimeter=null, state=null, u_operational_risk_reference=null, sys_created_by=null, u_root_cause_description=null, u_completed_at=null, closed_at=null, cmdb_ci=null, impact=null, active=null, u_impacted_customers=null, u_mtx_outage_downtime=null, u_cancel_reason=null, u_comm_linked_count=null, u_resolution_action_summary=null, opened_at=null, u_problem=null, u_start_date=null, u_outage_type=null, u_mtx_brand_image_impact=null, work_notes=null, u_action_plan_summary=null, short_description=null, assignment_group=null, u_completed_by=null, description=null, u_calculated_impact=null, u_incident_avere_child_count=null, u_source=null, closed_by=null, sys_id=null, u_impacted_business_ia=null, u_end_date=null, u_opening_group=null, assigned_to=null, u_external_reference=null, u_quality_engineers_rpt=null, u_mtx_service_label=null, u_problem_linked_count=null, u_original_change=null, u_environment=null, u_organisational_units_rpt=null, u_origin_detailled=null, u_service_linked_count=null, u_mtx_service_pca=null, u_impacted_business_ia_rpt=null]]
+janv. 26, 2019 10:13:40 PM com.myservices.MyService getTestIcaElement
+INFOS: *************  Methode : getTestIcaElement************* 
+janv. 26, 2019 10:13:40 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 10:44:00 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 10:44:01 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 10:44:01 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 10:44:01 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 10:44:01 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 10:44:01 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 10:44:01 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 10:44:01 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 10:44:01 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 26, 2019 10:44:01 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 26, 2019 10:44:01 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 26, 2019 10:44:01 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 26, 2019 10:44:01 PM com.myservices.MyService getConvertJsonToMapTypeReferenceIca
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : [Result [parent=null, u_internal_group_watch_list=null, u_mtx_financial_impact=null, u_internal_watch_list=null, sys_updated_on=null, u_origin=null, number=null, u_outage=null, u_business_service=null, u_security_incident=null, sys_updated_by=null, opened_by=null, sys_created_on=null, u_steering_commitee_count=null, u_mtx_user_impacted_perimeter=null, state=null, u_operational_risk_reference=null, sys_created_by=null, u_root_cause_description=null, u_completed_at=null, closed_at=null, cmdb_ci=null, impact=null, active=null, u_impacted_customers=null, u_mtx_outage_downtime=null, u_cancel_reason=null, u_comm_linked_count=null, u_resolution_action_summary=null, opened_at=null, u_problem=null, u_start_date=null, u_outage_type=null, u_mtx_brand_image_impact=null, work_notes=null, u_action_plan_summary=null, short_description=null, assignment_group=null, u_completed_by=null, description=null, u_calculated_impact=null, u_incident_avere_child_count=null, u_source=null, closed_by=null, sys_id=null, u_impacted_business_ia=null, u_end_date=null, u_opening_group=null, assigned_to=null, u_external_reference=null, u_quality_engineers_rpt=null, u_mtx_service_label=null, u_problem_linked_count=null, u_original_change=null, u_environment=null, u_organisational_units_rpt=null, u_origin_detailled=null, u_service_linked_count=null, u_mtx_service_pca=null, u_impacted_business_ia_rpt=null]]
+janv. 26, 2019 10:44:01 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 10:47:58 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 10:47:58 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 10:47:58 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 10:47:58 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 10:47:58 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 10:47:58 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 10:47:58 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 10:47:58 PM com.myservices.MyService getTestIcaElement2
+INFOS: resultNode.isArray() is false 
+janv. 26, 2019 10:47:58 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 10:52:57 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 10:52:57 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 10:52:57 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 10:52:57 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 10:52:57 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 10:52:57 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 10:52:57 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 10:52:57 PM com.myservices.MyService getTestIcaElement2
+INFOS: resultNode.isArray() is true 
+janv. 26, 2019 10:52:57 PM com.myservices.MyService getTestIcaElement2
+INFOS: getU_internal_group_watch_list : 
+janv. 26, 2019 10:52:57 PM com.myservices.MyService getTestIcaElement2
+INFOS: getU_internal_group_watch_list : 
+janv. 26, 2019 10:52:57 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 11:01:08 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 11:01:08 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 11:01:08 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 11:01:08 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 11:01:08 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 11:01:08 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 11:01:08 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 11:01:09 PM com.myservices.MyService getTestIcaElement2
+INFOS: resultNode.isArray() is true 
+janv. 26, 2019 11:01:09 PM com.myservices.MyService getTestIcaElement2
+INFOS: resultNode.size() : 2
+janv. 26, 2019 11:01:09 PM com.myservices.MyService getTestIcaElement2
+INFOS: getU_internal_group_watch_list : 
+janv. 26, 2019 11:01:09 PM com.myservices.MyService getTestIcaElement2
+INFOS: getU_internal_group_watch_list : 
+janv. 26, 2019 11:01:09 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 26, 2019 11:03:55 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 26, 2019 11:03:55 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 26, 2019 11:03:55 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 26, 2019 11:03:55 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 26, 2019 11:03:55 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 26, 2019 11:03:55 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 26, 2019 11:03:55 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 26, 2019 11:03:55 PM com.myservices.MyService getTestIcaElement2
+INFOS: resultNode.isArray() is true 
+janv. 26, 2019 11:03:55 PM com.myservices.MyService getTestIcaElement2
+INFOS: resultNode.size() : 2
+janv. 26, 2019 11:03:55 PM com.myservices.MyService getTestIcaElement2
+INFOS: u_internal_group_watch_list : Natixis Confidential
+janv. 26, 2019 11:03:55 PM com.myservices.MyService getTestIcaElement2
+INFOS: u_internal_group_watch_list : text factice
+janv. 26, 2019 11:03:55 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********

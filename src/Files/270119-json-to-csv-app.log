@@ -1,0 +1,1876 @@
+janv. 27, 2019 4:41:12 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 27, 2019 4:41:12 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 27, 2019 4:41:12 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 27, 2019 4:41:12 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 27, 2019 4:41:12 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 27, 2019 4:41:12 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 27, 2019 4:41:12 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {Meta={}, Error={}, Data={result=[{parent=, u_internal_group_watch_list=Natixis Confidential, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 11:09:35, u_origin=Application, number=Natixis Confidential, u_outage=O - Extr@ssur - Documentaire, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 11:06:11, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=Natixis Confidential, u_completed_at=, closed_at=, cmdb_ci=, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=A/R IHS et JVM, opened_at=21-01-2019 11:06:11, u_problem=, u_start_date=18-01-2019 16:12:18, u_outage_type=Outage, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=prd-assurance, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=IT Team (project, production,quality), closed_by=, sys_id=0c1009c7db476700867a5c8a68961997, u_impacted_business_ia=Natixis Confidential, u_end_date=18-01-2019 16:41:36, u_opening_group=Natixis Confidential, assigned_to=Natixis Confidential, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Natixis Confidential, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}, {parent=, u_internal_group_watch_list=text factice, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 10:14:02, u_origin=Application, number=Natixis Confidential, u_outage=Natixis Confidential, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 10:11:03, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=, u_completed_at=, closed_at=, cmdb_ci=Natixis Confidential, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=Natixis Confidential, opened_at=Natixis Confidential, u_problem=, u_start_date=21-01-2019 09:36:43, u_outage_type=Natixis Confidential, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=Natixis Confidential, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=Natixis Confidential, closed_by=, sys_id=Natixis Confidential, u_impacted_business_ia=Natixis Confidential, u_end_date=21-01-2019 09:47:14, u_opening_group=prd-qualite, assigned_to=VALETTE Loic, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Production, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}]}}
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestIcaElement
+INFOS: resultNode.isArray() is true 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestIcaElement
+INFOS: resultNode.size() : 2
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestIcaElement
+INFOS: u_internal_group_watch_list : Natixis Confidential
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestIcaElement
+INFOS: u_internal_group_watch_list : text factice
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestEditIcaElement
+INFOS: resultNode.isArray() is true 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestEditIcaElement
+INFOS: resultNode.size() : 2
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestEditIcaElement
+INFOS: Update *******************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: Path : /home/jeanno/Files/exemple-open-class-room.xml
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: Version de XML : 1.0
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: Encodage : UTF-8
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: Document standalone? : true
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: racine.getNodeName() : repertoire
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: Parcours de tous les éléments  : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(0).getNodeName() : #text
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(1).getNodeName() : #comment
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(2).getNodeName() : #text
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(3).getNodeName() : personne
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(4).getNodeName() : #text
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: Parcours de Node.ELEMENT_NODE : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: node.getNodeName() : personne
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: Récupération de l'attribut sexe : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: element.getNodeName() : personne
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: sexe : masculin
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: Récupération du nom et du prénom : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: nom : masculin
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: sexe : masculin
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: (Element) element.getElementsByTagName('nom').item(0) : DOE
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: (Element) element.getElementsByTagName('prenom').item(0) : John
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: Récupération des numéros de téléphone : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: fixe : 01 02 03 04 05
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml1
+INFOS: portable : 06 07 08 09 10
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Path : /home/jeanno/Files/drive.xml
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Version de XML : 1.0
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Encodage : UTF-8
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Document standalone? : false
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racine.getNodeName() : Records
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Parcours de tous les éléments  : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(0).getNodeName() : #text
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(1).getNodeName() : Metadata
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(2).getNodeName() : #text
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(3).getNodeName() : LevelCounts
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(4).getNodeName() : #text
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(5).getNodeName() : Record
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(6).getNodeName() : #text
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(7).getNodeName() : Record
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(8).getNodeName() : #text
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(9).getNodeName() : Record
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(10).getNodeName() : #text
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Parcours de Node.ELEMENT_NODE : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Metadata
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : LevelCounts
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Récupération de l'attribut contentId : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Metadata
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 3
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : LevelCounts
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 3
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 287
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537257
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getTextContent() : CNT-3537255************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getAttribute('id') : 22682************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537258
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getTextContent() : CNT-3537253************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getAttribute('id') : 22682************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537259
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getTextContent() : CNT-3537250************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getAttribute('id') : 22682************
+janv. 27, 2019 4:41:12 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:41:12 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 27, 2019 4:44:10 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 27, 2019 4:44:10 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 27, 2019 4:44:10 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 27, 2019 4:44:10 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 27, 2019 4:44:10 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 27, 2019 4:44:10 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 27, 2019 4:44:10 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {Meta={}, Error={}, Data={result=[{parent=, u_internal_group_watch_list=Natixis Confidential, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 11:09:35, u_origin=Application, number=Natixis Confidential, u_outage=O - Extr@ssur - Documentaire, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 11:06:11, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=Natixis Confidential, u_completed_at=, closed_at=, cmdb_ci=, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=A/R IHS et JVM, opened_at=21-01-2019 11:06:11, u_problem=, u_start_date=18-01-2019 16:12:18, u_outage_type=Outage, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=prd-assurance, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=IT Team (project, production,quality), closed_by=, sys_id=0c1009c7db476700867a5c8a68961997, u_impacted_business_ia=Natixis Confidential, u_end_date=18-01-2019 16:41:36, u_opening_group=Natixis Confidential, assigned_to=Natixis Confidential, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Natixis Confidential, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}, {parent=, u_internal_group_watch_list=text factice, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 10:14:02, u_origin=Application, number=Natixis Confidential, u_outage=Natixis Confidential, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 10:11:03, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=, u_completed_at=, closed_at=, cmdb_ci=Natixis Confidential, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=Natixis Confidential, opened_at=Natixis Confidential, u_problem=, u_start_date=21-01-2019 09:36:43, u_outage_type=Natixis Confidential, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=Natixis Confidential, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=Natixis Confidential, closed_by=, sys_id=Natixis Confidential, u_impacted_business_ia=Natixis Confidential, u_end_date=21-01-2019 09:47:14, u_opening_group=prd-qualite, assigned_to=VALETTE Loic, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Production, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}]}}
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestIcaElement
+INFOS: resultNode.isArray() is true 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestIcaElement
+INFOS: resultNode.size() : 2
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestIcaElement
+INFOS: u_internal_group_watch_list : Natixis Confidential
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestIcaElement
+INFOS: u_internal_group_watch_list : text factice
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestEditIcaElement
+INFOS: resultNode.isArray() is true 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestEditIcaElement
+INFOS: resultNode.size() : 2
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestEditIcaElement
+INFOS: Update *******************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: Path : /home/jeanno/Files/exemple-open-class-room.xml
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: Version de XML : 1.0
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: Encodage : UTF-8
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: Document standalone? : true
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: racine.getNodeName() : repertoire
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: Parcours de tous les éléments  : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(0).getNodeName() : #text
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(1).getNodeName() : #comment
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(2).getNodeName() : #text
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(3).getNodeName() : personne
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(4).getNodeName() : #text
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: Parcours de Node.ELEMENT_NODE : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: node.getNodeName() : personne
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: Récupération de l'attribut sexe : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: element.getNodeName() : personne
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: sexe : masculin
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: Récupération du nom et du prénom : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: nom : masculin
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: sexe : masculin
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: (Element) element.getElementsByTagName('nom').item(0) : DOE
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: (Element) element.getElementsByTagName('prenom').item(0) : John
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: Récupération des numéros de téléphone : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: fixe : 01 02 03 04 05
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml1
+INFOS: portable : 06 07 08 09 10
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Path : /home/jeanno/Files/drive.xml
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Version de XML : 1.0
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Encodage : UTF-8
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Document standalone? : false
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racine.getNodeName() : Records
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Parcours de tous les éléments  : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(0).getNodeName() : #text
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(1).getNodeName() : Metadata
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(2).getNodeName() : #text
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(3).getNodeName() : LevelCounts
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(4).getNodeName() : #text
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(5).getNodeName() : Record
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(6).getNodeName() : #text
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(7).getNodeName() : Record
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(8).getNodeName() : #text
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(9).getNodeName() : Record
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(10).getNodeName() : #text
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Parcours de Node.ELEMENT_NODE : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Metadata
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : LevelCounts
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Récupération de l'attribut contentId : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Metadata
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 3
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : LevelCounts
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 3
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 287
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537257
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getAttribute('id') : 22682************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537258
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getAttribute('id') : 22682************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537259
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getAttribute('id') : 22682************
+janv. 27, 2019 4:44:10 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:44:10 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 27, 2019 4:45:32 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 27, 2019 4:45:32 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 27, 2019 4:45:32 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 27, 2019 4:45:32 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 27, 2019 4:45:32 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 27, 2019 4:45:32 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 27, 2019 4:45:32 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {Meta={}, Error={}, Data={result=[{parent=, u_internal_group_watch_list=Natixis Confidential, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 11:09:35, u_origin=Application, number=Natixis Confidential, u_outage=O - Extr@ssur - Documentaire, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 11:06:11, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=Natixis Confidential, u_completed_at=, closed_at=, cmdb_ci=, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=A/R IHS et JVM, opened_at=21-01-2019 11:06:11, u_problem=, u_start_date=18-01-2019 16:12:18, u_outage_type=Outage, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=prd-assurance, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=IT Team (project, production,quality), closed_by=, sys_id=0c1009c7db476700867a5c8a68961997, u_impacted_business_ia=Natixis Confidential, u_end_date=18-01-2019 16:41:36, u_opening_group=Natixis Confidential, assigned_to=Natixis Confidential, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Natixis Confidential, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}, {parent=, u_internal_group_watch_list=text factice, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 10:14:02, u_origin=Application, number=Natixis Confidential, u_outage=Natixis Confidential, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 10:11:03, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=, u_completed_at=, closed_at=, cmdb_ci=Natixis Confidential, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=Natixis Confidential, opened_at=Natixis Confidential, u_problem=, u_start_date=21-01-2019 09:36:43, u_outage_type=Natixis Confidential, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=Natixis Confidential, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=Natixis Confidential, closed_by=, sys_id=Natixis Confidential, u_impacted_business_ia=Natixis Confidential, u_end_date=21-01-2019 09:47:14, u_opening_group=prd-qualite, assigned_to=VALETTE Loic, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Production, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}]}}
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestIcaElement
+INFOS: resultNode.isArray() is true 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestIcaElement
+INFOS: resultNode.size() : 2
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestIcaElement
+INFOS: u_internal_group_watch_list : Natixis Confidential
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestIcaElement
+INFOS: u_internal_group_watch_list : text factice
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestEditIcaElement
+INFOS: resultNode.isArray() is true 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestEditIcaElement
+INFOS: resultNode.size() : 2
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestEditIcaElement
+INFOS: Update *******************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: Path : /home/jeanno/Files/exemple-open-class-room.xml
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: Version de XML : 1.0
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: Encodage : UTF-8
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: Document standalone? : true
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: racine.getNodeName() : repertoire
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: Parcours de tous les éléments  : 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(0).getNodeName() : #text
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(1).getNodeName() : #comment
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(2).getNodeName() : #text
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(3).getNodeName() : personne
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(4).getNodeName() : #text
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: Parcours de Node.ELEMENT_NODE : 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: node.getNodeName() : personne
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: Récupération de l'attribut sexe : 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: element.getNodeName() : personne
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: sexe : masculin
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: Récupération du nom et du prénom : 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: nom : masculin
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: sexe : masculin
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: (Element) element.getElementsByTagName('nom').item(0) : DOE
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: (Element) element.getElementsByTagName('prenom').item(0) : John
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: Récupération des numéros de téléphone : 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: fixe : 01 02 03 04 05
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml1
+INFOS: portable : 06 07 08 09 10
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: Path : /home/jeanno/Files/drive.xml
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: Version de XML : 1.0
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: Encodage : UTF-8
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: Document standalone? : false
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racine.getNodeName() : Records
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: Parcours de tous les éléments  : 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(0).getNodeName() : #text
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(1).getNodeName() : Metadata
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(2).getNodeName() : #text
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(3).getNodeName() : LevelCounts
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(4).getNodeName() : #text
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(5).getNodeName() : Record
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(6).getNodeName() : #text
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(7).getNodeName() : Record
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(8).getNodeName() : #text
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(9).getNodeName() : Record
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(10).getNodeName() : #text
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: Parcours de Node.ELEMENT_NODE : 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Metadata
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : LevelCounts
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: Récupération de l'attribut contentId : 
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Metadata
+janv. 27, 2019 4:45:32 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 3
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 19**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : LevelCounts
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 3
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 287
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 0**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537257
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 0**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getAttribute('id') : 22682************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537258
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 0**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getAttribute('id') : 22682************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537259
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 0**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: 0)field.getAttribute('id') : 22682************
+janv. 27, 2019 4:45:33 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:45:33 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********
+janv. 27, 2019 4:56:23 PM com.mysingletons.LazySingleton getFileHandler
+INFOS: Logs start : succes
+janv. 27, 2019 4:56:23 PM com.mysingletons.LazySingleton loadPropertiesFile
+INFOS: load /home/jeanno/Files/FileInputStream.properties : succes
+janv. 27, 2019 4:56:23 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application start ***********
+janv. 27, 2019 4:56:23 PM com.SpringBootTransformJsonApplication main
+INFOS: utilisation du port 8090
+janv. 27, 2019 4:56:23 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 1 : 
+/home/jeanno/Files/json-01.json
+janv. 27, 2019 4:56:23 PM com.SpringBootTransformJsonApplication main
+INFOS: Path 2 : 
+/home/jeanno/Files/employee.json
+janv. 27, 2019 4:56:23 PM com.SpringBootTransformJsonApplication main
+INFOS: Path ica : 
+/home/jeanno/Files/ica.json
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {role=Manager, city=Los Angeles, name=David}
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getConvertJsonToMapTypeReference
+INFOS: ConvertJsonToMapTypeReference 
+Map using TypeReference : {role=Manager, city=Los Angeles, name=David}
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestEmployeeElement
+INFOS: id = 123
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 123456
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestEmployeeElement
+INFOS: Phone No = 987654
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getConvertJsonToMapBasic
+INFOS: ConvertJsonToMapBasic 
+Map is : {Meta={}, Error={}, Data={result=[{parent=, u_internal_group_watch_list=Natixis Confidential, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 11:09:35, u_origin=Application, number=Natixis Confidential, u_outage=O - Extr@ssur - Documentaire, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 11:06:11, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=Natixis Confidential, u_completed_at=, closed_at=, cmdb_ci=, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=A/R IHS et JVM, opened_at=21-01-2019 11:06:11, u_problem=, u_start_date=18-01-2019 16:12:18, u_outage_type=Outage, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=prd-assurance, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=IT Team (project, production,quality), closed_by=, sys_id=0c1009c7db476700867a5c8a68961997, u_impacted_business_ia=Natixis Confidential, u_end_date=18-01-2019 16:41:36, u_opening_group=Natixis Confidential, assigned_to=Natixis Confidential, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Natixis Confidential, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}, {parent=, u_internal_group_watch_list=text factice, u_mtx_financial_impact=null, u_internal_watch_list=Natixis Confidential, sys_updated_on=21-01-2019 10:14:02, u_origin=Application, number=Natixis Confidential, u_outage=Natixis Confidential, u_business_service=Natixis Confidential, u_security_incident=false, sys_updated_by=Natixis Confidential, opened_by=Natixis Confidential, sys_created_on=21-01-2019 10:11:03, u_steering_commitee_count=1, u_mtx_user_impacted_perimeter=null, state=Documenting, u_operational_risk_reference=, sys_created_by=Natixis Confidential, u_root_cause_description=, u_completed_at=, closed_at=, cmdb_ci=Natixis Confidential, impact=3 - Low, active=true, u_impacted_customers=, u_mtx_outage_downtime=Less than 30 mn, u_cancel_reason=null, u_comm_linked_count=, u_resolution_action_summary=Natixis Confidential, opened_at=Natixis Confidential, u_problem=, u_start_date=21-01-2019 09:36:43, u_outage_type=Natixis Confidential, u_mtx_brand_image_impact=null, work_notes=, u_action_plan_summary=, short_description=Natixis Confidential, assignment_group=Natixis Confidential, u_completed_by=, description=Natixis Confidential, u_calculated_impact=null, u_incident_avere_child_count=, u_source=Natixis Confidential, closed_by=, sys_id=Natixis Confidential, u_impacted_business_ia=Natixis Confidential, u_end_date=21-01-2019 09:47:14, u_opening_group=prd-qualite, assigned_to=VALETTE Loic, u_external_reference=, u_quality_engineers_rpt=Natixis Confidential, u_mtx_service_label=Natixis Confidential, u_problem_linked_count=, u_original_change=, u_environment=Production, u_organisational_units_rpt=Natixis Confidential, u_origin_detailled=Natixis Confidential, u_service_linked_count=1, u_mtx_service_pca=Natixis Confidential, u_impacted_business_ia_rpt=Natixis Confidential}]}}
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestIcaElement
+INFOS: resultNode.isArray() is true 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestIcaElement
+INFOS: resultNode.size() : 2
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestIcaElement
+INFOS: u_internal_group_watch_list : Natixis Confidential
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestIcaElement
+INFOS: u_internal_group_watch_list : text factice
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestEditIcaElement
+INFOS: resultNode.isArray() is true 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestEditIcaElement
+INFOS: resultNode.size() : 2
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestEditIcaElement
+INFOS: Update *******************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: Path : /home/jeanno/Files/exemple-open-class-room.xml
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: Version de XML : 1.0
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: Encodage : UTF-8
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: Document standalone? : true
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: racine.getNodeName() : repertoire
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: Parcours de tous les éléments  : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(0).getNodeName() : #text
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(1).getNodeName() : #comment
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(2).getNodeName() : #text
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(3).getNodeName() : personne
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: racineNoeuds.item(4).getNodeName() : #text
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: Parcours de Node.ELEMENT_NODE : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: node.getNodeName() : personne
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: Récupération de l'attribut sexe : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: element.getNodeName() : personne
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: sexe : masculin
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: Récupération du nom et du prénom : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: nom : masculin
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: sexe : masculin
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: (Element) element.getElementsByTagName('nom').item(0) : DOE
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: (Element) element.getElementsByTagName('prenom').item(0) : John
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: Récupération des numéros de téléphone : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: fixe : 01 02 03 04 05
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml1
+INFOS: portable : 06 07 08 09 10
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Path : /home/jeanno/Files/drive.xml
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Version de XML : 1.0
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Encodage : UTF-8
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Document standalone? : false
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racine.getNodeName() : Records
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Parcours de tous les éléments  : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(0).getNodeName() : #text
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(1).getNodeName() : Metadata
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(2).getNodeName() : #text
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(3).getNodeName() : LevelCounts
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(4).getNodeName() : #text
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(5).getNodeName() : Record
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(6).getNodeName() : #text
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(7).getNodeName() : Record
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(8).getNodeName() : #text
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(9).getNodeName() : Record
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: racineNoeuds.item(10).getNodeName() : #text
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Parcours de Node.ELEMENT_NODE : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Metadata
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : LevelCounts
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: node.getNodeName() : Record
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Récupération de l'attribut contentId : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Metadata
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 3
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 19**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : LevelCounts
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 3
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 287
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 0**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537257
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 0**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537258
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 0**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: element.getNodeName() : Record
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: contentId : 3537259
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Taille Field : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: ***********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Tous id : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleField : 19
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22682
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22679
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22678
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22681
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22677
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 1**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22680
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 0**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22600
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 22333
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: **********************************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Id de tous les élements de Record : 
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: tailleRacineNoeuds3 : 3**************
+janv. 27, 2019 4:56:23 PM com.myservices.MyService getTestXml2
+INFOS: Error : java.lang.NullPointerException
+janv. 27, 2019 4:56:23 PM com.SpringBootTransformJsonApplication main
+INFOS: **********Application stop ***********

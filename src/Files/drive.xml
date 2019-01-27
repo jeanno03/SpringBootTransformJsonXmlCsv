@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Records count="3">
+  <Metadata>
+    <FieldDefinitions>
+      <FieldDefinition id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" name="Control Name" alias="Control_Name" />
+      <FieldDefinition id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" name="Nb Antivirus Installes" alias="Nb_Antivirus_Installes" />
+      <FieldDefinition id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" name="Nb Postes Travail" alias="Nb_Postes_Travail" />
+      <FieldDefinition id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" name="Exploitation Vuln" alias="Exploitation_Vuln" />
+      <FieldDefinition id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" name="FormuleToApply" alias="FormuleToApply" />
+      <FieldDefinition id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" name="Pourcentage Conformite" alias="Pourcentage_Conformite" />
+      <FieldDefinition id="22600" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" name="Reference" alias="Reference" />
+      <FieldDefinition id="22682" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" name="Control Name Alias" alias="Control_Name_Alias" />
+      <FieldDefinition id="22333" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" name="Quality" alias="Quality" />            
+    </FieldDefinitions>
+  </Metadata>
+  <LevelCounts>
+    <LevelCount id="287" guid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" count="3" />
+  </LevelCounts>
+  <Record contentId="3537257" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+    <Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537257</Field>
+    <Field id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" type="2">25</Field>
+    <Field id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="2">100</Field>
+    <Field id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" type="2">0</Field>
+    <Field id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="1">[22679]/[22679]*100</Field>
+    <Field id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" type="1" />
+    <Field id="22600" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="3">
+    <reference id="11677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" reference="BPCE">
+    </reference>
+    </Field>
+    <Field id="22333" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="3">
+    <Quality id="11677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" quality="High">
+    <Compliance id="999">123</Compliance>
+    <Compliance id="888">"confidantial"</Compliance>
+    </Quality>
+    </Field>
+    <Record contentId="3537255" levelId="285" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="555" parentId="0">
+    <Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537255</Field>
+    </Record>
+  </Record >
+  <Record contentId="3537258" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+    <Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537258</Field>
+    <Field id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" type="2">0</Field>
+    <Field id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="2">100</Field>
+    <Field id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" type="2">15</Field>
+    <Field id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="1">100-[22681]</Field>
+    <Field id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" type="1" />
+    <Field id="22600" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="3">
+    <reference id="11677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" reference="Natixis">
+    </reference>
+    </Field>
+     <Field id="22333" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="3">
+    <Quality id="11677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" quality="low">
+    <Compliance id="999">444</Compliance>
+    <Compliance id="888">"public"</Compliance>
+    </Quality>
+    </Field> 
+    <Record contentId="3537255" levelId="285" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="555" parentId="0">
+    <Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537253</Field>
+    </Record>
+  </Record>
+  <Record contentId="3537259" levelId="287" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="469" parentId="0">
+    <Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537259</Field>
+    <Field id="22679" guid="ff320dec-379a-4154-83e7-6ef0bbdb606f" type="2">0,4</Field>
+    <Field id="22678" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="2">0,6</Field>
+    <Field id="22681" guid="107ce810-0324-4745-8682-ad420a20395c" type="2">5</Field>
+    <Field id="22677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="1">100*([22678]-[22679])-[22681]</Field>
+    <Field id="22680" guid="3c19fc58-8517-45e2-94d3-865c98124cf5" type="1" />
+    <Field id="22600" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" type="3">
+    <reference id="11677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" reference="Security-IT">
+    </reference>
+    </Field>
+    <Field id="22333" guid="0ae11114-ae06-464f-9e08-b1b68aa5f2b0" type="3">
+    <Quality id="11677" guid="d762a559-e32a-45e5-9064-d538c7aacfd0" quality="medium">
+    <Compliance id="999">999</Compliance>
+    <Compliance id="888">"critic"</Compliance>
+    </Quality>
+    </Field>    
+    <Record contentId="3537255" levelId="285" levelGuid="6f22f885-b890-4c9e-970b-8d9a9bb58dd5" moduleId="555" parentId="0">
+    <Field id="22682" guid="0bfcbb80-2a02-4d02-8984-5cbf348fb493" type="1">CNT-3537250</Field>
+    </Record>
+  </Record>
+</Records>
